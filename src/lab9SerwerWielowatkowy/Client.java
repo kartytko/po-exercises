@@ -204,14 +204,6 @@ public class Client {
     }
 
 
-    //gunwo
-    public static void minimalize(){
-
-        if(!closest_pass_next.equals("pierwsza iteracja")){
-
-        }else{
-        }
-    }
 
 
     static public void fillList(){
